@@ -1,0 +1,118 @@
+.profile-pic {
+    border-radius: 250px;
+    height: 300px;
+}
+
+.julia-logo {
+    font-size: 25px;
+    font-weight: bolder;
+    color: #453e34;
+}
+
+.rounded {
+    border-radius: 20px;
+}
+
+.page-content {
+    min-height: 100vh;
+    padding-bottom: 100px;
+}
+
+.about-me {
+    max-width: 700px;
+    font-size: 20px;
+    justify-content: center;
+    margin: auto;
+    padding-bottom: 100px;
+}
+
+.julia-background {
+    background-color: #fbf6ef;
+}
+
+.pink-notification {
+    background-color: #edd5cf;
+    color: #362c1c;
+}
+
+.julia-nav {
+    background-color: #e0c6ae;
+}
+
+.julia-navbar-item {
+    color: #362c1c;
+}
+
+.julia-navbar-item:hover {
+    background-color: #ecd7c0;
+}
+
+.dark-text-color {
+    color: #362c1c;
+}
+
+.light-text-color {
+    color: #443722;
+}
+
+.julia-link {
+    color: #362c1c;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.julia-link:hover {
+    color:#f8eee1;
+    background-color:#362c1c;
+}
+
+.dark-button {
+    background-color: #362c1c;
+    color: #f8eee1;
+}
+
+.dark-button:hover {
+    background-color: #f8eee1;
+    color: #362c1c;
+}
+
+.dark-button-inverted {
+    background-color: #f8eee1;
+    color: #362c1c;
+}
+
+.green-button {
+    background-color: #d5dfce;
+    color: #362c1c;
+}
+
+.green-button:hover {
+    background-color: #362c1c;
+    color: #d5dfce;
+}
+
+.julia-projects-background {
+    background-color: #fbf6ef;
+}
+
+.green-notification {
+    background-color: #dce0d9;
+    color: #443722;
+}
+
+.project-link {
+    color: #362c1c;
+}
+
+.blue-notification {
+    background-color: #cfcfed;
+    color: #443722;
+}
+
+.yellow-notification {
+    background-color: #ffeac3;
+    color: #443722;
+}
